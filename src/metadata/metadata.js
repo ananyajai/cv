@@ -12,5 +12,6 @@ module.exports = {
     ['Matlab', '+++'],
     ['Kotlin', '++'],
     ['Latex', '+++'],
+    ['HTML', '++'],
   ],
 };
